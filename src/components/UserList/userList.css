@@ -1,0 +1,18 @@
+.side-bar {
+  height: calc(100vh - 85px);
+}
+
+.highlighted {
+  background-color: "#ffffff";
+  color: "#ffffff";
+}
+
+.MuiTypography-root {
+  font-family: 'Roboto', sans-serif;
+  /* Additional styling can be added here */
+}
+
+.MuiListItem-root {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}

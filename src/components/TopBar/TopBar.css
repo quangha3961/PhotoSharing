@@ -1,0 +1,8 @@
+.topbar-appBar .MuiTypography-h6 {
+    color: #000000;
+}
+
+.MuiTypography-root {
+    font-family: 'Roboto', sans-serif;
+    /* Additional styling can be added here */
+}
